@@ -10,7 +10,7 @@ st.subheader('Welcome to XYZ Co!')
 
 st.markdown('---')
 
-df=pd.read_excel(r"C:\Users\Admin\Desktop\Data.xlsx")
+df=pd.read_csv("https://github.com/nour0202/company-portfolio/blob/main/Data.csv")
 
 #insert select box
 
